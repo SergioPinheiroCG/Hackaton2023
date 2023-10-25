@@ -36,8 +36,8 @@ As principais funcionalidades a serem implementadas são:
 • Autenticação e autorização de instituições financeiras e usuários finais; e
 • Consulta de informações de transações e histórico de pagamentos.
 
-
 🗃️ Detalhes sobre as APIs Necessárias para o Sistema PIX
+
 
 📑 1. Registro e Gerenciamento de Chaves PIX:
 • POST /api/pix/chaves - Registra uma nova chave PIX para um usuário ou instituição financeira
