@@ -1,6 +1,6 @@
 <img src="https://images.even3.com.br/m7WTPFGA7q2Zl536dowm5sGPqIg=/1100x440/smart/even3.blob.core.windows.net/banner/WhatsAppImage2023-10-18at11.41.18.775d16c04c00409c9296.jpeg" alt="Texto Alternativo">
 
-TECH.WEEK1.0 UNIFACISA
+# _TECH.WEEK1.0 UNIFACISA_
 Cidade: Campina Grande / Paraíba
 Local: UNIFACISA - Centro Universitário
 
@@ -15,12 +15,12 @@ Professor Fabrício Dias
 
 
 👷 Equipe Esse projeto foi desenvolvido com a colaboração:
-Francinaldo Batista da Silva Filho /
-Gigliárly Marcelino /
-Gustavo Tomio Magalhães Kubo /
-Jose Carlos /
-Márcio Vitor de Souza Nascimento /
-Sérgio Magno Castor Pinheiro /
+>- Francinaldo Batista da Silva Filho 
+>- Gigliárly Marcelino 
+>- Gustavo Tomio Magalhães Kubo 
+>- Jose Carlos 
+>- Márcio Vitor de Souza Nascimento 
+>- Sérgio Magno Castor Pinheiro 
 
 🚀 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
 A API deve ser feito com uso das seguintes tecnologias e frameworks:
