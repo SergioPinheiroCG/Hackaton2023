@@ -3,7 +3,7 @@
 TECH.WEEK1.0 UNIFACISA
 Cidade: Campina Grande / Paraíba
 Local: UNIFACISA - Centro Universitário
-Data: terça-feira, 24 de outubro de 2023
+
 
 O evento Tech. Week1.0 Unifacisa, foi idealizado pelas coordenações dos cursos: Jogos Digitais, Sistemas de Informação e Ciências Aeronáuticas em alinhamento à Semana da Tecnologia, com o o objetivo de Integrar as comunidades acadêmicas de Sistemas de Informação e Jogos Digitais da Unifacisa no desenvolvimento de ações de produção, ensino e pesquisa em temas relacionados à tecnologia. Será realizado no período de 24 a 27 de outubro de 2023, na Unifacisa, com previsão de 1000 participantes, entre alunos, professores e coordenadores dos cursos. A programação conta com as atividades: Pocket Show, Oficinas, Mesa Redonda, Palestras, Apresentação de Livro e Gamejam/Hackathon.
 
