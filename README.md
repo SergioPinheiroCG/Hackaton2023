@@ -31,35 +31,34 @@ A API deve ser feito com uso das seguintes tecnologias e frameworks:
 
 💻 Projeto : Principais Funcionalidades
 As principais funcionalidades a serem implementadas são:
-• Registro e gerenciamento de chaves de endereçamento PIX;
-• Processamento de transações de pagamento e transferência PIX;
-• Autenticação e autorização de instituições financeiras e usuários finais; e
-• Consulta de informações de transações e histórico de pagamentos.
+- Registro e gerenciamento de chaves de endereçamento PIX;
+- Processamento de transações de pagamento e transferência PIX;
+- Autenticação e autorização de instituições financeiras e usuários finais; e
+- Consulta de informações de transações e histórico de pagamentos.
 
 🗃️ Detalhes sobre as APIs Necessárias para o Sistema PIX
 
 
 📑 1. Registro e Gerenciamento de Chaves PIX:
-• POST /api/pix/chaves - Registra uma nova chave PIX para um usuário ou instituição financeira
+- POST /api/pix/chaves - Registra uma nova chave PIX para um usuário ou instituição financeira
 específica.
-• GET /api/pix/chaves/{id} - Obtém os detalhes de uma chave PIX específica com o ID fornecido.
-• PUT /api/pix/chaves/{id} - Atualiza os detalhes de uma chave PIX existente identificada pelo ID
+- GET /api/pix/chaves/{id} - Obtém os detalhes de uma chave PIX específica com o ID fornecido.
+- PUT /api/pix/chaves/{id} - Atualiza os detalhes de uma chave PIX existente identificada pelo ID
 fornecido.
-• DELETE /api/pix/chaves/{id} - Remove uma chave PIX específica com o ID fornecido.
+- DELETE /api/pix/chaves/{id} - Remove uma chave PIX específica com o ID fornecido.
 
 📱 2. Processamento de Transações PIX:
-• POST /api/pix/transacoes/pagamento - Inicia uma nova transação de pagamento PIX.
-• POST /api/pix/transacoes/transferencia - Inicia uma nova transação de transferência PIX.
-• GET /api/pix/transacoes/{id} - Obtém os detalhes de uma transação PIX específica com o ID
-fornecido.
-• GET /api/pix/transacoes/historico/{usuarioId} - Obtém o histórico de transações PIX para um
+- POST /api/pix/transacoes/pagamento - Inicia uma nova transação de pagamento PIX.
+- POST /api/pix/transacoes/transferencia - Inicia uma nova transação de transferência PIX.
+- GET /api/pix/transacoes/{id} - Obtém os detalhes de uma transação PIX específica com o ID fornecido.
+- GET /api/pix/transacoes/historico/{usuarioId} - Obtém o histórico de transações PIX para um
 usuário específico com base no ID do usuário.
-• GET /api/pix/transacoes/status/{id} - Obtém o status atual de uma transação PIX com o ID
+- GET /api/pix/transacoes/status/{id} - Obtém o status atual de uma transação PIX com o ID
 fornecido.
 
 💰 3. Autenticação e Autorização:
-• POST /api/pix/autenticacao/usuario - Permite que um usuário se autentique no sistema PIX.
-• POST /api/pix/autenticacao/instituicao - Permite que uma instituição financeira se autentique
+- POST /api/pix/autenticacao/usuario - Permite que um usuário se autentique no sistema PIX.
+- POST /api/pix/autenticacao/instituicao - Permite que uma instituição financeira se autentique
 no sistema PIX.
 
 
