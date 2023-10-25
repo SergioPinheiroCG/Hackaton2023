@@ -18,7 +18,7 @@ Professor Fabrício Dias
 >- Francinaldo Batista da Silva Filho 
 >- Gigliárly Marcelino 
 >- Gustavo Tomio Magalhães Kubo 
->- Jose Carlos 
+>- Jose Carlos dos Santos Medeiros
 >- Márcio Vitor de Souza Nascimento 
 >- Sérgio Magno Castor Pinheiro 
 
